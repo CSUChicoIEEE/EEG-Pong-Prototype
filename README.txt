@@ -1,4 +1,7 @@
 This is the Alpha build for the 2 player pong EEG software suite being built by IEEE Chico State EECE students.
+This is an on going and unfinshed project.
+
+Credits: OpenBCI, Pygame, MATLAB, and BCILAB
 
 Contact:
 
@@ -8,6 +11,7 @@ Email: csuchicoieee@gmail.com
 Website: http://sites.ieee.org/sb-csuchico/
 Facebook: https://www.facebook.com/CSU-Chico-IEEE-173996999311476/
 Slack*: https://app.slack.com/client/TC7PDB7PZ/CC6NDASKC
+Discord: https://discord.gg/VAGNgDeq
 
 *To join the Slack you must have a chico.edu email account. In the event that you are not a chico student/faculty
 we recommend contacting us via email (preferred).
