@@ -3,7 +3,7 @@ This is an on going and unfinshed project.
 
 Credits: OpenBCI, Pygame, MATLAB, and BCILAB
 
-WARNING: Code is experiment and NOT SECURE!
+WARNING: Code is experiment and NOT SECURE! IT is recommended to be used for EDUCATION purposes only!
 
 Contact:
 
