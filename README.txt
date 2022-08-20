@@ -3,6 +3,8 @@ This is an on going and unfinshed project.
 
 Credits: OpenBCI, Pygame, MATLAB, and BCILAB
 
+WARNING: Code is experiment and NOT SECURE!
+
 Contact:
 
 If you wish to contact us regarding the project please feel free to reach out to us.
